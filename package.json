@@ -1,6 +1,6 @@
 {
   "name": "bind-operator",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Transpiler for http://wiki.ecmascript.org/doku.php?id=strawman:bind_operator",
   "bin": "./bin/cli.js",
   "dependencies": {
