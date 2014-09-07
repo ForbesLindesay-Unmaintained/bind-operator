@@ -1,0 +1,21 @@
+{
+  "name": "bind-operator",
+  "version": "0.0.0",
+  "description": "Transpiler for http://wiki.ecmascript.org/doku.php?id=strawman:bind_operator",
+  "bin": "./bin/cli.js",
+  "dependencies": {
+    "acorn-bind-operator": "^0.7.1"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForbesLindesay/bind-operator.git"
+  },
+  "author": "ForbesLindesay",
+  "license": "MIT"
+}
