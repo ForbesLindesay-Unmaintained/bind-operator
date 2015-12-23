@@ -3,7 +3,7 @@
 Transpiler for http://wiki.ecmascript.org/doku.php?id=strawman:bind_operator
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/bind-operator/master.svg)](https://travis-ci.org/ForbesLindesay/bind-operator)
-[![Dependency Status](https://img.shields.io/gemnasium/ForbesLindesay/bind-operator.svg)](https://gemnasium.com/ForbesLindesay/bind-operator)
+[![Dependency Status](https://img.shields.io/david/ForbesLindesay/bind-operator.svg)](https://david-dm.org/ForbesLindesay/bind-operator)
 [![NPM version](https://img.shields.io/npm/v/bind-operator.svg)](https://www.npmjs.org/package/bind-operator)
 
 ## Example
