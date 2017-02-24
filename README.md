@@ -1,5 +1,7 @@
 # bind-operator
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/bind-operator.svg)](https://greenkeeper.io/)
+
 Transpiler for http://wiki.ecmascript.org/doku.php?id=strawman:bind_operator
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/bind-operator/master.svg)](https://travis-ci.org/ForbesLindesay/bind-operator)
